@@ -18,7 +18,7 @@
 </ul>
 <h2>### 🧠 Tech Stack & Skills</h2>
 
-### ⚡ Core MERN Stack
+<h3 align="center">### ⚡ Core MERN Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
