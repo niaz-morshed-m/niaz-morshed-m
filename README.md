@@ -48,10 +48,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<p align="center">
-  <a href="https://github.com/niaz-morshed-m" target="_blank">
-    <img src="https://streak-stats.demolab.dev?user=niaz-morshed-m&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2Fniaz-morshed-m" alt="GitHub Streak" /></a>
 
 
