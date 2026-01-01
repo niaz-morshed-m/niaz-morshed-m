@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co.com/Hf2ghYn2/Black-and-Blue-Dark-Professional-Business-Services-Linked-In-Article-Cover-Image-1.png" alt="Niaz Morshed README header image">
-<h2>Niaz Morshed <h3>(MERN Stack Developer)</h3></h2>
-<h3>MERN Stack Developer</h3>
+<h2>Niaz Morshed (MERN Stack Developer)</h2>
+
 
 <h2>👋 About Me</h2>
 <p>
