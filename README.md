@@ -47,7 +47,8 @@
 <a href="https://linkedin.com/in/niaz-morshed-du" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+---
+<h2>SStats and Activity</h2>
   <p>
     <a href="https://github.com/niaz-morshed-m/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
