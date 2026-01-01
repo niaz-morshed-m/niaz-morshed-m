@@ -3,7 +3,7 @@
 
 <h2>👋 About Me</h2>
 <p>
-  Hi, I’m <strong>Niyaz Morshed</strong>, a passionate beginner <strong>MERN Stack Developer</strong> 
+  Hi, I’m <strong>Niaz Morshed</strong>, a passionate beginner <strong>MERN Stack Developer</strong> 
   with a strong interest in frontend development.<br/>
   I love creating modern, responsive, and user-friendly web interfaces using React and related technologies.<br/>
   Currently, I’m focused on learning, building real-world projects, and growing as a professional frontend developer.
@@ -12,8 +12,8 @@
 <h2>🚀 Current Activities</h2>
 <ul>
   <li>🌱 Exploring <strong>Next.js</strong> and building strong expertise in <strong>frontend development</strong></li>
-  <li>⚛️ I am strengthening my skills in React.js</li>
-  <li>🎨 I am building modern and responsive UI designs</li>
-  <li>🚀 I am improving my frontend development expertise</li>
+  <li>⚛️ Strengthening my skills in React.js</li>
+  <li>🎨 Building modern and responsive UI designs</li>
+  <li>🚀 Improving my frontend development expertise</li>
 </ul>
 
