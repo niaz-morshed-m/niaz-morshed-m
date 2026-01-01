@@ -49,7 +49,9 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niaz-morshed-m&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/niaz-morshed-m" target="_blank">
+    <img src="https://streak-stats.demolab.dev?user=niaz-morshed-m&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 
