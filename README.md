@@ -12,6 +12,8 @@
 <h2>🚀 Current Activities</h2>
 <ul>
   <li>🌱 Exploring <strong>Next.js</strong> and building strong expertise in <strong>frontend development</strong></li>
-  <li>🏗️ Working on a <strong>tourism website</strong> with modern UI, smooth user experience, and dynamic content</li>
+  <li>⚛️ I am strengthening my skills in React.js</li>
+  <li>🎨 I am building modern and responsive UI designs</li>
+  <li>🚀 I am improving my frontend development expertise</li>
 </ul>
 
