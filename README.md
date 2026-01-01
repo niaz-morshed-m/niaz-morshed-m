@@ -16,7 +16,7 @@
   <li>🎨 Building modern and responsive UI designs</li>
   <li>🚀 Improving my frontend development expertise</li>
 </ul>
-### 🧠 Tech Stack & Skills
+<h2>### 🧠 Tech Stack & Skills</h2>
 
 ### ⚡ Core MERN Stack
 <p align="center">
