@@ -49,7 +49,9 @@
 </a>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niaz-morshed-m&theme=meta-dark" alt="GitHub Streak" />
+  <a href="https://github.com/niaz-morshed-m" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niaz-morshed-m&theme=meta-dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 
