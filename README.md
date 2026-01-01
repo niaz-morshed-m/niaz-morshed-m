@@ -49,9 +49,7 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/niaz-morshed-m" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=niaz-morshed-m&theme=meta-dark" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=niaz-morshed-m&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 
