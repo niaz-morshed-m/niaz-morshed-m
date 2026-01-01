@@ -47,6 +47,9 @@
 <a href="https://linkedin.com/in/niaz-morshed-du" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niaz-morshed-m&theme=meta-dark)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=niaz-morshed-m&theme=meta-dark" alt="GitHub Streak" /></a>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niaz-morshed-m&theme=meta-dark" alt="GitHub Streak" />
+</p>
+
 
