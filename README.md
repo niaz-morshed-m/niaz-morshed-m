@@ -16,7 +16,7 @@
   <li>🎨 Building modern and responsive UI designs</li>
   <li>🚀 Improving my frontend development expertise</li>
 </ul>
-## 🧠 Tech Stack & Skills
+### 🧠 Tech Stack & Skills
 
 ### ⚡ Core MERN Stack
 <p align="center">
@@ -27,26 +27,16 @@
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ---
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ---
 
-### 📦 Libraries & State Management
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=redux,axios,reactquery" />
-</p>
 
----
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify,vercel" />
-</p>
